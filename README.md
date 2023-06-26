@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm CAPIT</h1>
-<h3 align="center">CAPIT est une société de développement des logiciels basée à Tunis. Nous sommes spécialisées dans l'intégration et le déploiement de l'ERP Odoo pour vos PME/PMI. CAPIT offre aussi des solutions pour une meilleure présence et visibilité de votre PME/PMI avec du développement web, du référencement et la gestion de vos social media.</h3>
+<h3 align="center">
+CAPIT is a software development company based in Tunis. We specialize in the integration and deployment of the Odoo ERP for your SMEs (Small and Medium Enterprises). CAPIT also provides solutions for enhancing the presence and visibility of your SMEs with web development, SEO, and social media management.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mouayedcapit&label=Profile%20views&color=0e75b6&style=flat" alt="mouayedcapit" /> </p>
 
